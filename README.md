@@ -6,3 +6,5 @@ dashboard limk:
 4.https://public.tableau.com/views/Book3_16994611380500/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 story link:
 https://public.tableau.com/views/sneka2003/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+video link:
+https://photos.app.goo.gl/iUVSF8F4aEhnN9ey5
